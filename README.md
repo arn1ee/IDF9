@@ -1,4 +1,4 @@
 # IDF
-Как открыть: GitHub -> IDF9 -> Download ZIP -> Diagrams.net
+Как открыть: GitHub -> IDF9 -> Code -> Download ZIP -> Diagrams.net -> Открыть из -> Это устройство...
 
 Выполнил: Тимофеев Глеб 
